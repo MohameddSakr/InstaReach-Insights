@@ -56,7 +56,5 @@ Some of the analysis questions included:
 - Seaborn  
 - Jupyter Notebook  
 
----
 
-## Author
-Project created by ***Mohamed Hussain*** ✨  
+
