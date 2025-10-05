@@ -1,4 +1,9 @@
 # Instagram Reach Analysis 📊
+<img width="724" height="478" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/b4981aa4-5b84-4439-8a91-b24e74eace38" />
+<img width="530" height="499" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/cf87f0e1-8066-40a4-91d4-18115dc71401" />
+<img width="697" height="474" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/862fbc7c-0215-4fa2-b0c9-81d8efad5d57" />
+
+
 
 ## Project Overview
 This project analyzes an Instagram dataset to explore how different factors (such as captions, hashtags, impressions, and actions) affect the reach and engagement of posts.  
